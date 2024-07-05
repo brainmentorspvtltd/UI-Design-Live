@@ -1,0 +1,46 @@
+
+CSS -> cascade style sheet
+
+
+types of CSS
+
+1. inline css
+2. Internal css
+3. External css
+
+Selector {
+property name : value;
+}
+
+
+Selectors in css
+
+1 universal Selector - > (*)
+
+2 tag name used- > h1,p
+
+3 class selector -> .classname 
+
+4 id selector -> #idname 
+
+
+
+Properties
+
+
+1. color 
+
+
+types of values 
+
+1 directy name
+2 rgb or rgba 
+3 hex value  - > #fff-white
+                #000 -> black
+                #eee -> 
+                #D6EFD8
+
+
+background-color
+
+background - 

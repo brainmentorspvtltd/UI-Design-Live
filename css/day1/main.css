@@ -1,0 +1,50 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap"); */
+
+h1 {
+  color: red;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+#p1 {
+  color: #4a249d;
+  background-color: #000;
+}
+
+#p2 {
+  color: rgb(233, 793, 111);
+  background-color: red;
+}
+
+div p:first-child {
+  color: green;
+}
+
+div p:last-child {
+  color: brown;
+}
+div p:nth-child(4) {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: red;
+  text-decoration: none;
+}
+
+a:link {
+  color: aquamarine;
+}
+
+a:hover {
+  color: blueviolet;
+}
+p::selection {
+  color: red;
+  background-color: #000;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}

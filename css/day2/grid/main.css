@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 30px;
+}
+
+.grid-container > div {
+  background-color: blue;
+  color: white;
+  border: 5px solid black;
+}
+.div1 {
+  grid-column: span 2;
+}
+
+.div2 {
+  grid-row: span 2;
+}
+
+.div4 {
+  grid-column: span 3;
+}

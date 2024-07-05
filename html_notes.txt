@@ -1,0 +1,11 @@
+
+
+types of tags
+
+1 block
+2 inline
+
+text tag - h1 to h6 (block), p(block),span(inline),i (inline),strong(inline),b(inline)
+
+
+div - html4 (block)
